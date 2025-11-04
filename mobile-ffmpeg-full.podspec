@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary      = 'Prebuilt mobile-ffmpeg full (forked binary)'
   s.homepage     = 'https://github.com/jacklmf/mobile-ffmpeg'
   s.license      = { :type => 'GPL/LGPL' }
-  s.authors      = { 'mobile-ffmpeg' => 'n/a' }
+  s.authors      = 'mobile-ffmpeg'
   s.platform     = :ios, '14.0'
 
   s.source       = {
