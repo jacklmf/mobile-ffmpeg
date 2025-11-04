@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = 'https://github.com/jacklmf/mobile-ffmpeg'
   s.license      = { :type => 'GPL/LGPL' }
   s.authors      = 'mobile-ffmpeg'
-  s.platform     = :ios, '14.0'
+  s.platform     = :ios, '13.0'
 
   s.source       = {
     :http => 'https://github.com/jacklmf/mobile-ffmpeg/releases/download/v4.4.LTS/mobile-ffmpeg-4.4.LTS-ios-framework.zip',
